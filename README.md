@@ -16,7 +16,9 @@ At the conclusion of the experiment, all samples were subjected to chemical anal
 and high-throughput sequencing to determine bacterial community composition.
 
 
-R/ contains functions called by workflow scripts
-output/ contains intermediate files and output, including figures
-spreadsheets/ contains experimental design and metadata
+**R/** contains functions called by workflow scripts
+
+**output/** contains intermediate files and output, including figures
+
+**spreadsheets/** contains experimental design and metadata
 
