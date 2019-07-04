@@ -1,4 +1,4 @@
-# Experimental Design Setup and Randomized Assignment of Units to Exp. Groups
+# Experimental Design Setup and Randomized Assignment of Units to Sampling Days
 
 # Packages
 library(tidyverse)
