@@ -2,7 +2,7 @@
 
 library(tidyverse)
 
-dat <- read.csv("./data/SampleMetadata.csv",stringsAsFactors = FALSE)
+dat <- read.csv("./spreadsheets/SampleMetadata.csv",stringsAsFactors = FALSE)
 
 set.seed(123)
 nums <- 1:36
